@@ -1,0 +1,27 @@
+*{
+    background-color: antiquewhite;
+}
+.headder{
+    color: brown;
+    text-align: center;
+
+}
+.headder_inside{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.main_inside{
+   background-color: darkgray;
+}
+.margin_inside{
+    color: brown;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+  .main_inside_p{
+    padding: 5px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
